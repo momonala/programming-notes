@@ -16,11 +16,11 @@ A brief follow-along tutorial on QQ plots, which are used to determine the type 
 A follow-along tutorial on the technique used to make predictive models more generalized. 
 
 
-## [t-test: p-values vs. t-values](https://github.com/momonala/DS_tutorials/blob/master/pVal_versus_tVal.ipynb)
+## [t-test: p-values vs. t-values](https://github.com/momonala/DS_tutorials/blob/master/tutorials/pVal_versus_tVal.ipynb)
 
 A tutorial comparing the differences and purposes of p-values and t-values in a t-test.
 
-## [Time Series](https://github.com/momonala/DS_tutorials/blob/master/tutorials/pVal_versus_tVal.ipynb)
+## [Time Series](https://github.com/momonala/DS_tutorials/blob/master/tutorials/time_series_autocorrelation.ipynb)
 
 An interactive tutorial exploring time series data, autocorrelation, and autoregressive models stock and sales data. 
 
