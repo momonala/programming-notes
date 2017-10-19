@@ -1,29 +1,44 @@
-# Intuitive Data Science
+# Python Tutorials 
 
-The purpose of these notebooks is to help readers gain intuition on some messier data science and stats topics. I've included tutorials you can follow along with, and exercises I designed for the data science course I TA for at General Assembly. 
+Putting together various tutorials across various aspects of Python. Some of these stem from my time as a Data Science instructor at General Assembly, or friends asking how to learn python, or just becuase teaching a topic helps me understand it better! If you like what you see and want to see more, feel free to shoot me a message for a request :) 
 
-Often when tackling a new subject, the hardest part is figuring out the right questions to ask. When you know what you are asking, it becomes a lot easier to find the answer. If you're learning data science, chances are you've come across a Wikipedia article that could double as a PhD dissertation or a "Learn Machine Learning in 3 minutes" Youtube video that oversimplifies a complex topic. There is a vacuum for a happy medium. My goal is make concise, readable explanations of arcane topics, so that you can start asking some excellent questions.
+## Contents 
 
----------------------------------------------------------------
-# Topics: 
+### [Python Basics](https://github.com/momonala/Tutorials/tree/master/python_basics)
 
-## [QQ  Plots](https://github.com/momonala/DS_tutorials/blob/master/tutorials/QQ_plot.ipynb) 
+A few tutorials on Python basics, made for a few friends that had the motivation to learn to code, but could not find good resources. Of course, there are many ways to learn, and this is just one of them. 
 
-A brief follow-along tutorial on QQ plots, which are used to determine the type of distribution of your data. 
+1. [The Very Basics](https://github.com/momonala/Tutorials/blob/master/python_basics/python_basics.ipynb)
 
-## [Regularization ](https://github.com/momonala/DS_tutorials/blob/master/tutorials/Regularization.ipynb)
+2. [Functions]()
 
-A follow-along tutorial on the technique used to make predictive models more generalized. 
+### [Intermediate Python]()
 
+These are a collections of handy tips, tricks and tools in Python that are not completely obvious when first learning. 
 
-## [t-test: p-values vs. t-values](https://github.com/momonala/DS_tutorials/blob/master/tutorials/pVal_versus_tVal.ipynb)
+1. [Assertions](https://github.com/momonala/Tutorials/blob/master/python_intermediate/assert.ipynb)
 
-A tutorial comparing the differences and purposes of p-values and t-values in a t-test.
+2. [Function Argument Unpacking](https://github.com/momonala/Tutorials/blob/master/python_intermediate/function_argument_unpacking.ipynb)
 
-## [Time Series](https://github.com/momonala/DS_tutorials/blob/master/tutorials/time_series_autocorrelation.ipynb)
+3. [Args & Kwargs](https://github.com/momonala/Tutorials/blob/master/python_intermediate/args_kwargs.ipynb)
 
-An interactive tutorial exploring time series data, autocorrelation, and autoregressive models stock and sales data. 
+4. [Generators](https://github.com/momonala/Tutorials/blob/master/python_intermediate/generators.ipynb)
 
-## [Regression](https://github.com/momonala/DS_tutorials/blob/master/problem_sets/regression_problems.ipynb)
+5. Classes
 
-A notebook of exercise to explore various regression models using a dental economics dataset. 
+    - [Object Orientied Basics](https://github.com/momonala/Tutorials/blob/master/python_intermediate/classes.ipynb)
+    - [Class Methods & Static Methods](https://github.com/momonala/Tutorials/blob/master/python_intermediate/classmethods_staticmethods.ipynb)
+    - [Inheritance](https://github.com/momonala/Tutorials/blob/master/python_intermediate/inheritance.ipynb)
+    - [Special Methods, Magic, Dunder](https://github.com/momonala/Tutorials/blob/master/python_intermediate/special_methods_magic_dunder.ipynb)
+
+### [Data Science]()
+
+These tutorials were geared towards less common questions that students asked which were not covered in lecture, but still derserve a good answer. 
+
+1. [p-value vs. t-value]()
+
+2. [QQ plots]()
+
+3. [Regularization]()
+
+4. [Time Series, Autocorrelation]()
