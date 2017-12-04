@@ -1,1 +1,1 @@
-new
+click the [notebooks directory!](notebooks)
