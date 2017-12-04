@@ -4,34 +4,34 @@ Putting together various tutorials across various aspects of Python. Some of the
 
 ## Contents 
 
-### [Python Basics](/python_basics)
+### [Python Basics](python_basics)
 
-1. [The Very Basics](/python_basics.ipynb)
+1. [The Very Basics](python_basics.ipynb)
 
-### [Intermediate Python](/python_intermediate)
+### [Intermediate Python](python_intermediate)
 
 These are a collections of handy tips, tricks and tools in Python that are not completely obvious when first learning. 
 
-1. [Assertions](/python_intermediate/assert.ipynb)
+1. [Assertions](python_intermediate/assert.ipynb)
 
-2. [Function Argument Unpacking](/python_intermediate/function_argument_unpacking.ipynb)
+2. [Function Argument Unpacking](python_intermediate/function_argument_unpacking.ipynb)
 
-3. [Args & Kwargs](/python_intermediate/args_kwargs.ipynb)
+3. [Args & Kwargs](python_intermediate/args_kwargs.ipynb)
 
-4. [Generators](/python_intermediate/generators.ipynb)
+4. [Generators](python_intermediate/generators.ipynb)
 
 5. Classes
 
-    - [Object Orientied Basics](/python_intermediate/classes.ipynb)
-    - [Class Methods & Static Methods](/python_intermediate/classmethods_staticmethods.ipynb)
-    - [Inheritance](/python_intermediate/inheritance.ipynb)
-    - [Special Methods, Magic, Dunder](/python_intermediate/special_methods_magic_dunder.ipynb)
+    - [Object Orientied Basics](python_intermediate/classes.ipynb)
+    - [Class Methods & Static Methods](python_intermediate/classmethods_staticmethods.ipynb)
+    - [Inheritance](python_intermediate/inheritance.ipynb)
+    - [Special Methods, Magic, Dunder](python_intermediate/special_methods_magic_dunder.ipynb)
 
-### [Snippets](/snippets.ipynb)
+### [Snippets](snippets.ipynb)
 
 Useful tidbits for general logging and dubgging. 
     
-### [Data Science](/data_science)
+### [Data Science](data_science)
 
 These tutorials were geared towards less common questions that students asked which were not covered in lecture, but still derserve a good answer. 
 
