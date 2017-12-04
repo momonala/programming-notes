@@ -27,7 +27,7 @@ These are a collections of handy tips, tricks and tools in Python that are not c
     - [Inheritance](python_intermediate/inheritance.ipynb)
     - [Special Methods, Magic, Dunder](python_intermediate/special_methods_magic_dunder.ipynb)
 
-### [Snippets](snippets.ipynb)
+### [Snippets](python_intermediate/snippets.ipynb)
 
 Useful tidbits for general logging and dubgging. 
     
@@ -35,10 +35,12 @@ Useful tidbits for general logging and dubgging.
 
 These tutorials were geared towards less common questions that students asked which were not covered in lecture, but still derserve a good answer. 
 
-1. [p-value vs. t-value]()
+1. [p-value vs. t-value](data_science/tutorials/pVal_versus_tVal.ipynb)
 
-2. [QQ plots]()
+2. [QQ plots](data_science/tutorials/QQ_plot.ipynb)
 
-3. [Regularization]()
+3. [Regularization](data_science/tutorials/Regularization.ipynb)
 
-4. [Time Series, Autocorrelation]()
+4. [Time Series, Autocorrelation](data_science/tutorials/time_series_autocorrelation.ipynb)
+
+5. [Regression Problem Set](data_science/problem_sets/regression_problems.ipynb)

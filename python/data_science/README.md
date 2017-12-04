@@ -7,23 +7,23 @@ Often when tackling a new subject, the hardest part is figuring out the right qu
 ---------------------------------------------------------------
 # Topics: 
 
-## [QQ  Plots](https://github.com/momonala/DS_tutorials/blob/master/tutorials/QQ_plot.ipynb) 
+## [QQ  Plots](tutorials/QQ_plot.ipynb) 
 
 A brief follow-along tutorial on QQ plots, which are used to determine the type of distribution of your data. 
 
-## [Regularization ](https://github.com/momonala/DS_tutorials/blob/master/tutorials/Regularization.ipynb)
+## [Regularization ](tutorials/Regularization.ipynb)
 
 A follow-along tutorial on the technique used to make predictive models more generalized. 
 
 
-## [t-test: p-values vs. t-values](https://github.com/momonala/DS_tutorials/blob/master/tutorials/pVal_versus_tVal.ipynb)
+## [t-test: p-values vs. t-values](tutorials/pVal_versus_tVal.ipynb)
 
 A tutorial comparing the differences and purposes of p-values and t-values in a t-test.
 
-## [Time Series](https://github.com/momonala/DS_tutorials/blob/master/tutorials/time_series_autocorrelation.ipynb)
+## [Time Series](tutorials/time_series_autocorrelation.ipynb)
 
 An interactive tutorial exploring time series data, autocorrelation, and autoregressive models stock and sales data. 
 
-## [Regression](https://github.com/momonala/DS_tutorials/blob/master/problem_sets/regression_problems.ipynb)
+## [Regression](problem_sets/regression_problems.ipynb)
 
 A notebook of exercise to explore various regression models using a dental economics dataset. 
