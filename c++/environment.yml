@@ -1,7 +1,0 @@
-name: xeus-cling
-channels:
-  - nodefaults
-  - QuantStack
-dependencies:
-  - xeus-cling
-  - notebook
