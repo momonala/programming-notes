@@ -6,11 +6,11 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
 
 ### [Python Basics](python_basics)
 
-    -[The Very Basics](python_basics.ipynb)
+    [The Very Basics](python_basics.ipynb)
 
 ### [Intermediate Python](python_intermediate)
 
-    -[Assertions](python_intermediate/assert.ipynb)
+    [Assertions](python_intermediate/assert.ipynb)
     -[Function Argument Unpacking](python_intermediate/function_argument_unpacking.ipynb)
     -[Args & Kwargs](python_intermediate/args_kwargs.ipynb)
     -[Generators](python_intermediate/generators.ipynb)
