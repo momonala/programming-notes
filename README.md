@@ -3,7 +3,7 @@
 Posting these tutorials for a variety of reasons. Helping teach friends and strangers, keeping an archive of my own learning, experimenting with alternate ways of explaining a topic. But mostly because writing a tutorial forces me to structure my thinking and ingrains the key points of a topic in my own mind so that they're easier to remember. Plus I you or I can use these tidbits for quick reference when writing your own code. So enjoy! 
 
 Some of these stem from my time as a Data Science instructor at General Assembly, or friends asking how to learn python, or just becuase teaching a topic helps me understand it better! If you like what you see and want to see more, feel free to shoot me a message for a request :) 
-
+ 
 ## Contents 
 
 ### [Python Basics](python_basics)
