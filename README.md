@@ -6,7 +6,7 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
 
 ### [Python Basics](python_basics)
 
-    [The Very Basics](python_basics.ipynb)
+[The Very Basics](python_basics.ipynb)
 
 ### [Intermediate Python](python_intermediate)
 
