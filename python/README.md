@@ -20,4 +20,4 @@ Additionally, here are some useful resources:
     - [Inheritance](inheritance.ipynb)
     - [Special Methods, Magic, Dunder](special_methods_magic_dunder.ipynb)
     
-7. [Unit Testing](unitest//unittest.ipynb)
+7. [Unit Testing](unitest/unittest.ipynb)

@@ -4,23 +4,25 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
  
 ## Contents 
 
-### Python 
+### [Python](python) 
 
-[Generally useful snippets](useful_snippets.ipynb)
+[Generally useful snippets](python/useful_snippets.ipynb)
 
-1. [The Basics](python_basics.ipynb)
-2. [Assertions](assert.ipynb)
-3. [Function Argument Unpacking](function_argument_unpacking.ipynb)
-4. [Args & Kwargs](args_kwargs.ipynb)
-5. [Generators](generators.ipynb) 
-6. [Classes](classes.ipynb)
+1. [The Basics](python/python_basics.ipynb)
+2. [Assertions](python/assert.ipynb)
+3. [Function Argument Unpacking](python/function_argument_unpacking.ipynb)
+4. [Args & Kwargs](python/args_kwargs.ipynb)
+5. [Generators](python/generators.ipynb) 
+6. [Unit Testing](unitest/unittest.ipynb)
 
-    - [Object Orientied Basics](.ipynb)
-    - [Class Methods & Static Methods](classmethods_staticmethods.ipynb)
-    - [Inheritance](inheritance.ipynb)
-    - [Special Methods, Magic, Dunder](special_methods_magic_dunder.ipynb)
+[Classes](python/classes.ipynb)
+
+    - [Object Orientied Basics](python/.ipynb)
+    - [Class Methods & Static Methods](python/classmethods_staticmethods.ipynb)
+    - [Inheritance](python/inheritance.ipynb)
+    - [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
     
-7. [Unit Testing](unitest//unittest.ipynb)
+
     
 ### [Data Science](data_science)
 
