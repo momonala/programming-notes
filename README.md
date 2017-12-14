@@ -17,8 +17,8 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
 7. [Classes](python/classes.ipynb)
 8. [Object Orientied Basics](python/.ipynb)
 9. [Class Methods & Static Methods](python/classmethods_staticmethods.ipynb)
-10.[Inheritance](python/inheritance.ipynb)
-11.[Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
+10. [Inheritance](python/inheritance.ipynb)
+11. [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
     
 ### [Data Science](data_science)
 
