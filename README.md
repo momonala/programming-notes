@@ -4,31 +4,27 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
  
 ## Contents 
 
-### [Python Basics](python_basics)
+### Python 
 
-1. [The Very Basics](python_basics.ipynb)
+[Generally useful snippets](useful_snippets.ipynb)
 
-### [Intermediate Python](python_intermediate)
+1. [The Basics](python_basics.ipynb)
+2. [Assertions](assert.ipynb)
+3. [Function Argument Unpacking](function_argument_unpacking.ipynb)
+4. [Args & Kwargs](args_kwargs.ipynb)
+5. [Generators](generators.ipynb) 
+6. [Classes](classes.ipynb)
 
-1. [Assertions](python_intermediate/assert.ipynb)
-3. [Function Argument Unpacking](python_intermediate/function_argument_unpacking.ipynb)
-3. [Args & Kwargs](python_intermediate/args_kwargs.ipynb)
-4. [Generators](python_intermediate/generators.ipynb)
-
-Classes
-
-1. [Object Orientied Basics](python_intermediate/classes.ipynb)
-2. [Class Methods & Static Methods](python_intermediate/classmethods_staticmethods.ipynb)
-3. [Inheritance](python_intermediate/inheritance.ipynb)
-4. [Special Methods, Magic, Dunder](python_intermediate/special_methods_magic_dunder.ipynb)
-
-### [Snippets](python_intermediate/snippets.ipynb)
-
-Useful tidbits for general performace, elegance, logging and dubgging. 
+    - [Object Orientied Basics](.ipynb)
+    - [Class Methods & Static Methods](classmethods_staticmethods.ipynb)
+    - [Inheritance](inheritance.ipynb)
+    - [Special Methods, Magic, Dunder](special_methods_magic_dunder.ipynb)
+    
+7. [Unit Testing](unitest//unittest.ipynb)
     
 ### [Data Science](data_science)
 
-Once upon a time I was an assitant teacher at General Assembly, SF. These tutorials were geared towards common questions that students asked which were not covered in lecture.
+Once upon a time I was an assitant teacher at General Assembly, SF. These tutorials were geared towards common questions that students asked which were not covered in lecture. Hopefully I'll find time to add more soon. 
 
 1. [p-value vs. t-value](data_science/tutorials/pVal_versus_tVal.ipynb)
 2. [QQ plots](data_science/tutorials/QQ_plot.ipynb)
@@ -36,7 +32,7 @@ Once upon a time I was an assitant teacher at General Assembly, SF. These tutori
 4. [Time Series, Autocorrelation](data_science/tutorials/time_series_autocorrelation.ipynb)
 5. [Regression Problem Set](data_science/problem_sets/regression_problems.ipynb)
 
-### [C++ snippets](cpp_snippets)
+### [C++](cpp_snippets)
 
 Useful references for C++. Powered by [Xeus-Cling](https://github.com/momonala/xeus-cling) for Jupyter. 
 
