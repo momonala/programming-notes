@@ -15,7 +15,7 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
 5. [Generators](python/generators.ipynb) 
 6. [Unit Testing](unitest/unittest.ipynb)
 
-[Classes](python/classes.ipynb)
+1. [Classes](python/classes.ipynb)
 
     - [Object Orientied Basics](python/.ipynb)
     - [Class Methods & Static Methods](python/classmethods_staticmethods.ipynb)
