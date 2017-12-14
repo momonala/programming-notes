@@ -6,7 +6,7 @@
 4. [Pointers](Pointers.ipynb)
 5. [Passing By Reference](PassingByReference.ipynb)
 6. [Enums](Enums.ipynb)
-8. [Constructors and Destructors](Constructors_Destructors .ipynb)
+8. [Constructors and Destructors](Constructors_Destructors.ipynb)
 9. [Inheritance](Inheritance.ipynb)
 10. [Virtual Functions](VirtualFunctions.ipynb.ipynb)
 11. [Pure Virtual Functions](Interfaces_PureVirtualFunctions.ipynb)

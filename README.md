@@ -1,6 +1,6 @@
-# Python Tutorials 
+# Programming Tutorials 
 
-Posting these tutorials for a variety of reasons. Helping teach friends, keeping an archive of my own learning, experimenting with alternate ways of explaining a topic. But mostly because writing a tutorial forces me to structure my thinking and reenforces the key points of a topic in my own mind. Plus you or I can use these snippets for quick reference when building other projects. So enjoy! 
+Posting these tutorials for a variety of reasons. Helping teach friends, keeping an archive of my own learning, experimenting with alternate ways of explaining a topic. But mostly because writing a tutorial forces me to structure my thinking and reenforces the key points of a topic in my own mind. Plus you or I can use these snippets for quick reference when building other projects.
  
 ## Contents 
 
@@ -40,4 +40,20 @@ Once upon a time I was an assitant teacher at General Assembly, SF. These tutori
 
 Useful references for C++. Powered by [Xeus-Cling](https://github.com/momonala/xeus-cling) for Jupyter. 
 
-1. [Pointers](cpp_snippets/pointers.ipynb)
+Additionally, check out [TheCherno](https://www.youtube.com/user/TheChernoProject/playlists) for more great tutorials on C++ and OpenGL. 
+
+1. [How C++ Woks](HowCppWorks.ipynb)
+2. [Variables](Variables.ipynb)
+3. [Functions](Functions.ipynb)
+4. [Pointers](Pointers.ipynb)
+5. [Passing By Reference](PassingByReference.ipynb)
+6. [Enums](Enums.ipynb)
+8. [Constructors and Destructors](Constructors_Destructors.ipynb)
+9. [Inheritance](Inheritance.ipynb)
+10. [Virtual Functions](VirtualFunctions.ipynb.ipynb)
+11. [Pure Virtual Functions](Interfaces_PureVirtualFunctions.ipynb)
+12. [Visibility](Visibility.ipynb)
+14. [Arrays](Arrays.ipynb)
+15. [Strings](Strings.ipynb)
+16. [](.ipynb)
+17. [](.ipynb)
