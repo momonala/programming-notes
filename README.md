@@ -14,15 +14,11 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
 4. [Args & Kwargs](python/args_kwargs.ipynb)
 5. [Generators](python/generators.ipynb) 
 6. [Unit Testing](unitest/unittest.ipynb)
-
-1. [Classes](python/classes.ipynb)
-
-    - [Object Orientied Basics](python/.ipynb)
-    - [Class Methods & Static Methods](python/classmethods_staticmethods.ipynb)
-    - [Inheritance](python/inheritance.ipynb)
-    - [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
-    
-
+7. [Classes](python/classes.ipynb)
+8. [Object Orientied Basics](python/.ipynb)
+9. [Class Methods & Static Methods](python/classmethods_staticmethods.ipynb)
+10.[Inheritance](python/inheritance.ipynb)
+11.[Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
     
 ### [Data Science](data_science)
 

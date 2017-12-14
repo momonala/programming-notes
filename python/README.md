@@ -13,11 +13,10 @@ Additionally, here are some useful resources:
 3. [Function Argument Unpacking](function_argument_unpacking.ipynb)
 4. [Args & Kwargs](args_kwargs.ipynb)
 5. [Generators](generators.ipynb) 
-6. [Classes](classes.ipynb)
-
-    - [Object Orientied Basics](.ipynb)
-    - [Class Methods & Static Methods](classmethods_staticmethods.ipynb)
-    - [Inheritance](inheritance.ipynb)
-    - [Special Methods, Magic, Dunder](special_methods_magic_dunder.ipynb)
+6. [Unit Testing](unitest/unittest.ipynb)
+7. [Classes](classes.ipynb)
+8. [Object Orientied Basics](.ipynb)
+9. [Class Methods & Static Methods](classmethods_staticmethods.ipynb)
+10. [Inheritance](inheritance.ipynb)
+11. [Special Methods, Magic, Dunder](special_methods_magic_dunder.ipynb)
     
-7. [Unit Testing](unitest/unittest.ipynb)
