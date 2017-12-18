@@ -1,6 +1,6 @@
-# Programming Tutorials 
+# Programming Notes 
 
-Posting these tutorials for a variety of reasons. Helping teach friends, keeping an archive of my own learning, experimenting with alternate ways of explaining a topic. But mostly because writing a tutorial forces me to structure my thinking and reenforces the key points of a topic in my own mind. Plus you or I can use these snippets for quick reference when building other projects.
+I've posted these notes for a variety of reasons: helping friends, keeping an archive of my own learning, experimenting with alternate ways of explaining a topic. But mostly because writing a tutorial forces me to structure my thinking and reenforces the key points of a topic in my own mind. Plus you or I can use these snippets for quick reference when building other projects.
  
 ## Contents 
 
@@ -22,7 +22,7 @@ Posting these tutorials for a variety of reasons. Helping teach friends, keeping
     
 ### [Data Science](data_science)
 
-Once upon a time I was an assitant teacher at General Assembly, SF. These tutorials were geared towards common questions that students asked which were not covered in lecture. Hopefully I'll find time to add more soon. 
+Once upon a time I was an assitant teacher at General Assembly, SF. These tutorials were geared towards common questions that students asked which were not covered in lecture.
 
 1. [p-value vs. t-value](data_science/tutorials/pVal_versus_tVal.ipynb)
 2. [QQ plots](data_science/tutorials/QQ_plot.ipynb)
