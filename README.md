@@ -19,7 +19,7 @@ I've posted these notes for a variety of reasons: helping friends, keeping an ar
 9. [Class Methods & Static Methods](python/classmethods_staticmethods.ipynb)
 10. [Inheritance](python/inheritance.ipynb)
 11. [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
-12. [Cython](/cython/cython.ipynb)
+12. [Cython](/cython/Cython.ipynb)
     
 ### [Data Science](data_science)
 
