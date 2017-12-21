@@ -60,4 +60,5 @@ Additionally, check out [TheCherno](https://www.youtube.com/user/TheChernoProjec
 23. [Vector](cpp_snippets/Vector.ipynb)
 24. [Arrow Operator](cpp_snippets/Arrow.ipynb)
 25. [This Keyword](cpp_snippets/This.ipynb)
+26. [Preprocessor Macros](cpp_snippets/Macros.ipynb)
 
