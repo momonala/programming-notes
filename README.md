@@ -58,7 +58,6 @@ Additionally, check out [TheCherno](https://www.youtube.com/user/TheChernoProjec
 21. [Multiple Return Types](cpp_snippets/MultipleReturnTypes.ipynb)
 22. [Templates](cpp_snippets/Templates.ipynb)
 23. [Vector](cpp_snippets/Vector.ipynb)
-24. [](cpp_snippets/.ipynb)
-25. [](cpp_snippets/.ipynb)
-26. [](cpp_snippets/.ipynb)
+24. [Arrow Operator](cpp_snippets/Arrow.ipynb)
+25. [This Keyword](cpp_snippets/This.ipynb)
 

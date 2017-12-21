@@ -21,7 +21,7 @@
 21. [Multiple Return Types](MultipleReturnTypes.ipynb)
 22. [Templates](Templates.ipynb)
 23. [Vector](Vector.ipynb)
-24. [](.ipynb)
-25. [](.ipynb)
+24. [Arrow Operator](Arrow.ipynb)
+25. [This Keyword](This.ipynb)
 26. [](.ipynb)
 
