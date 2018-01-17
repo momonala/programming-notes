@@ -31,6 +31,10 @@ Once upon a time I was an assitant teacher at General Assembly, SF. These tutori
 4. [Time Series, Autocorrelation](data_science/tutorials/time_series_autocorrelation.ipynb)
 5. [Regression Problem Set](data_science/problem_sets/regression_problems.ipynb)
 
+### [Kalman Filters](kalman)
+
+1. [Extended Kalman Filters](kalman/Kalman-Filters.ipynb)
+
 ### [C++](cpp_snippets)
 
 Useful references for C++. Powered by [Xeus-Cling](https://github.com/momonala/xeus-cling) for Jupyter. 
