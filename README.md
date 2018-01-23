@@ -20,6 +20,8 @@ I've posted these notes for a variety of reasons: helping friends, keeping an ar
 10. [Inheritance](python/inheritance.ipynb)
 11. [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
 12. [Cython](/cython/Cython.ipynb)
+
+### [Deep Learning](data_science/deep_learning/deep.ipynb)
     
 ### [Data Science](data_science)
 

@@ -7,6 +7,16 @@ Often when tackling a new subject, the hardest part is figuring out the right qu
 ---------------------------------------------------------------
 # Topics: 
 
+## [Deep Learning](deep_learning/deep.ipynb)
+
+#### [Loss Functions]()
+
+#### [Activation Functions]()
+
+#### [Why is My Neural Net Not Working]()
+
+#### [Code Snippets]()
+
 ## [QQ  Plots](tutorials/QQ_plot.ipynb) 
 
 A brief follow-along tutorial on QQ plots, which are used to determine the type of distribution of your data. 
