@@ -68,4 +68,5 @@ Additionally, check out [TheCherno](https://www.youtube.com/user/TheChernoProjec
 25. [This Keyword](cpp_snippets/This.ipynb)
 26. [Preprocessor Macros](cpp_snippets/Macros.ipynb)
 27. [Auto](cpp_snippets/Auto.ipynb)
+27. [Static Arrays](cpp_snippets/StaticArrays.ipynb)
 

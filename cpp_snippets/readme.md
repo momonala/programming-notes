@@ -25,4 +25,5 @@
 25. [This Keyword](This.ipynb)
 26. [Preprocessor Macros](Macros.ipynb)
 27. [Auto](Auto.ipynb)
+27. [Static Arrays](StaticArrays.ipynb)
 
