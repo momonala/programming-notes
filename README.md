@@ -21,9 +21,15 @@ I've posted these notes for a variety of reasons: helping friends, keeping an ar
 11. [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
 12. [Cython](/cython/Cython.ipynb)
 
-### [Deep Learning](data_science/deep_learning/deep.ipynb)
-    
-### [Data Science](data_science)
+### [Deep Learning](deep_learning/)
+
+1. [General Notes](deep_learning/DeepLearningGeneral.ipynb)
+2. [RNN/LSTMs](deep_learning/RNN.ipynb)
+3. [CNN Transfer Learning](deep_learning/TransferLearning.ipynb)
+4. [Functional API](deep_learning/FunctionalAPI.ipynb)
+5. [Code Snippets](deep_learning/CodeSnippets.ipynb)
+
+### [Data Science](data_science/)
 
 Once upon a time I was an assitant teacher at General Assembly, SF. These tutorials were geared towards common questions that students asked which were not covered in lecture.
 
@@ -32,6 +38,7 @@ Once upon a time I was an assitant teacher at General Assembly, SF. These tutori
 3. [Regularization](data_science/tutorials/Regularization.ipynb)
 4. [Time Series, Autocorrelation](data_science/tutorials/time_series_autocorrelation.ipynb)
 5. [Regression Problem Set](data_science/problem_sets/regression_problems.ipynb)
+6. [Permutation Feature Importance](data_science/tutorials/permutation_feature_importance.ipynb)
 
 ### [Kalman Filters](kalman)
 
@@ -69,4 +76,5 @@ Additionally, check out [TheCherno](https://www.youtube.com/user/TheChernoProjec
 26. [Preprocessor Macros](cpp_snippets/Macros.ipynb)
 27. [Auto](cpp_snippets/Auto.ipynb)
 27. [Static Arrays](cpp_snippets/StaticArrays.ipynb)
+28. [Lambdas](cpp_sniipets/lambdas.ipynb)
 
