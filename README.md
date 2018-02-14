@@ -40,11 +40,15 @@ Once upon a time I was an assitant teacher at General Assembly, SF. These tutori
 5. [Regression Problem Set](data_science/problem_sets/regression_problems.ipynb)
 6. [Permutation Feature Importance](data_science/tutorials/permutation_feature_importance.ipynb)
 
-### [Kalman Filters](kalman)
+### [Computer Vision](computer_vision/)
+
+[Stereo Vision](computer_vision/StereoVision.ipynb)
+
+### [Kalman Filters](kalman/)
 
 1. [Extended Kalman Filters](kalman/Kalman-Filters.ipynb)
 
-### [C++](cpp_snippets)
+### [C++](cpp_snippets/)
 
 Useful references for C++. Powered by [Xeus-Cling](https://github.com/momonala/xeus-cling) for Jupyter. 
 
