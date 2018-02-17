@@ -40,19 +40,18 @@ Once upon a time I was an assitant teacher at General Assembly, SF. These tutori
 5. [Regression Problem Set](data_science/problem_sets/regression_problems.ipynb)
 6. [Permutation Feature Importance](data_science/tutorials/permutation_feature_importance.ipynb)
 
-### [Computer Vision](computer_vision/)
+### [Robotics](/robotics)
 
-[Stereo Vision](computer_vision/StereoVision.ipynb)
+Mostly from my learnings with Udacty courses, Nanodegrees, and some graduate courses at Twente. 
 
-### [Kalman Filters](kalman/)
-
-1. [Extended Kalman Filters](kalman/Kalman-Filters.ipynb)
+1. [Extended Kalman Filters](robotics/Kalman-Filters.ipynb)
+2. [Stereo Vision](robotics/StereoVision.ipynb)
 
 ### [C++](cpp_snippets/)
 
-Useful references for C++. Powered by [Xeus-Cling](https://github.com/momonala/xeus-cling) for Jupyter. 
+Useful references for C++. Additionally, check out [TheCherno](https://www.youtube.com/user/TheChernoProject/playlists) for more great tutorials on C++ and OpenGL. 
 
-Additionally, check out [TheCherno](https://www.youtube.com/user/TheChernoProject/playlists) for more great tutorials on C++ and OpenGL. 
+Powered by [Xeus-Cling](https://github.com/momonala/xeus-cling) for Jupyter. 
 
 1. [How C++ Woks](cpp_snippets/HowCppWorks.ipynb)
 2. [Variables](cpp_snippets/Variables.ipynb)
