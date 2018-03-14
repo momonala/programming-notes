@@ -20,6 +20,9 @@ I've posted these notes for a variety of reasons: helping friends, keeping an ar
 10. [Inheritance](python/inheritance.ipynb)
 11. [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
 12. [Cython](/cython/Cython.ipynb)
+13. [Flask](/flask)
+- [Intro](/flask/intro/intro.py)
+- [Templates](/using_templates/using_templates.py)
 
 ### [Deep Learning](deep_learning/)
 
@@ -40,7 +43,7 @@ Once upon a time I was an assitant teacher at General Assembly, SF. These tutori
 5. [Regression Problem Set](data_science/problem_sets/regression_problems.ipynb)
 6. [Permutation Feature Importance](data_science/tutorials/permutation_feature_importance.ipynb)
 
-### [Robotics](/robotics)
+### [Computer Vision & Robotics](/robotics)
 
 Mostly from my learnings with Udacty courses, Nanodegrees, and some graduate courses at Twente. 
 
