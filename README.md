@@ -20,9 +20,11 @@ I've posted these notes for a variety of reasons: helping friends, keeping an ar
 10. [Inheritance](python/inheritance.ipynb)
 11. [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
 12. [Cython](/cython/Cython.ipynb)
-13. [Flask](/flask)
-- [Intro](/flask/intro/intro.py)
-- [Templates](/using_templates/using_templates.py)
+
+### [Web Dev](web)
+1. [APIs](web/APIs)
+2. [Flask Intro](web/flask)
+3. [Flask Templates](web/flask/using_templates/using_templates.py)
 
 ### [Deep Learning](deep_learning/)
 
