@@ -84,4 +84,5 @@ Powered by [Xeus-Cling](https://github.com/momonala/xeus-cling) for Jupyter.
 26. [Preprocessor Macros](cpp_snippets/Macros.ipynb)
 27. [Auto](cpp_snippets/Auto.ipynb)
 27. [Static Arrays](cpp_snippets/StaticArrays.ipynb)
+28. [Multithreading](cpp_snippets/Multithreading.ipynb)
 
