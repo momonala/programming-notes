@@ -1,6 +1,6 @@
 # Programming Notes 
 
-I've posted these notes for a variety of reasons: helping friends, keeping an archive of my own learning, experimenting with alternate ways of explaining a topic. But mostly because writing a tutorial forces me to structure my thinking and reenforces the key points of a topic in my own mind. Plus you or I can use these snippets for quick reference when building other projects.
+I've posted these notes for a variety of reasons: document my learning, helping friends,experimenting with alternate ways of explaining a topic. But mostly because writing a tutorial forces me to structure my thinking and reenforces the key points of a topic in my own mind. Plus you or I can use these snippets for quick reference when building other projects.
  
 ## Contents 
 
@@ -28,7 +28,7 @@ I've posted these notes for a variety of reasons: helping friends, keeping an ar
 
 ### [Deep Learning](deep_learning/)
 
-1. [General Notes](deep_learning/DeepLearningGeneral.ipynb)
+1. [Best Practices Notes](deep_learning/DeepLearningGeneral.ipynb)
 2. [RNN/LSTMs](deep_learning/RNN.ipynb)
 3. [CNN Transfer Learning](deep_learning/TransferLearning.ipynb)
 4. [Functional API](deep_learning/FunctionalAPI.ipynb)
