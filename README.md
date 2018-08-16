@@ -20,6 +20,7 @@ I've posted these notes for a variety of reasons: document my learning, helping 
 10. [Inheritance](python/inheritance.ipynb)
 11. [Special Methods, Magic, Dunder](python/special_methods_magic_dunder.ipynb)
 12. [Cython](/cython/Cython.ipynb)
+13. [A-Z of Python Dictionaries](python/A-Z_python_dict.ipynb)
 
 ### [Web Dev](web)
 1. [APIs](web/APIs)
